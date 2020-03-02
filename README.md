@@ -53,3 +53,7 @@ Unit
 - Jasmine
 - Mocha (Plugins: Chai, Sinon, etc)
 - Jest
+
+## Test Rules
+
+- Number of unit tests should be the same or greater than number of execution paths
