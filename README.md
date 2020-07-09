@@ -57,3 +57,15 @@ Unit
 ## Test Rules
 
 - Number of unit tests should be the same or greater than number of execution paths
+
+## Test-Driven Development (TDD)
+
+- Write a failing test
+- Write the simplest code to make the test pass
+- Refactor if necessary
+
+### Benefits of TDD
+
+- Testable source code
+- Full coverage by tests
+- Simpler implementation
